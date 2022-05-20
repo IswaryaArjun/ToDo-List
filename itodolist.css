@@ -1,0 +1,9 @@
+body{
+    padding: 54px;
+    /* border: 1px solid ; */
+  }
+  .inputclass{
+    margin :0;
+    cursor:pointer;
+    font-size:20px;
+  }
